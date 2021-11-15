@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/brightlink_frontend/static/css/main.5ddd067a.chunk.css",
-    "main.js": "/brightlink_frontend/static/js/main.37f8d138.chunk.js",
-    "main.js.map": "/brightlink_frontend/static/js/main.37f8d138.chunk.js.map",
+    "main.js": "/brightlink_frontend/static/js/main.8d0c6935.chunk.js",
+    "main.js.map": "/brightlink_frontend/static/js/main.8d0c6935.chunk.js.map",
     "runtime-main.js": "/brightlink_frontend/static/js/runtime-main.061eb25a.js",
     "runtime-main.js.map": "/brightlink_frontend/static/js/runtime-main.061eb25a.js.map",
     "static/js/2.380c97c8.chunk.js": "/brightlink_frontend/static/js/2.380c97c8.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.061eb25a.js",
     "static/js/2.380c97c8.chunk.js",
     "static/css/main.5ddd067a.chunk.css",
-    "static/js/main.37f8d138.chunk.js"
+    "static/js/main.8d0c6935.chunk.js"
   ]
 }
